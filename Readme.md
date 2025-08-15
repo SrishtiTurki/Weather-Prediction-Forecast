@@ -169,5 +169,3 @@ Outputs:
 * Interactive map (`weather_map.html`)
 
 ---
-
-If you want, I can also make a **visually polished README with badges, emojis, and dataset preview tables** so it looks like a top-tier GitHub project. That’ll make it extra appealing.
