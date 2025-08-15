@@ -130,8 +130,7 @@ Classification report (Ensemble):
 
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/weather-prediction.git
-cd weather-prediction
+https://github.com/SrishtiTurki/Weather-Prediction-Forecast.git
 
 # Install dependencies
 pip install -r requirements.txt
