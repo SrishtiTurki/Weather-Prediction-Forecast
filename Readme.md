@@ -6,7 +6,7 @@ This project predicts weather conditions using **deep learning (LSTM)** for temp
 It also includes **climate trend analysis**, **environmental impact assessment**, and **spatial visualisations**.
 
 With this pipeline, we achieved:
-* **XGBoost accuracy**: **88%**
+* **XGBoost accuracy**: **85%**
 * **LSTM accuracy**: \~59%
 * **Ensemble accuracy**: **95%** (massive boost by combining models)
 
@@ -85,7 +85,7 @@ With this pipeline, we achieved:
 | Model    | Accuracy |
 | -------- | -------- |
 | LSTM     | \~59%    |
-| XGBoost  | \~88%    |
+| XGBoost  | \~85%    |
 | Ensemble | **95%**  |
 
 Classification report (Ensemble):
